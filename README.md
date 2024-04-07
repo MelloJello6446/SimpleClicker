@@ -11,7 +11,7 @@ SimpleClicker is a command-line interface (CLI) based auto-clicker that can prod
 
 ![SimpleClicker Screenshot](https://github.com/MelloJello6446/SimpleClicker/assets/110226006/e01a9880-487d-42fd-90c6-ff1e45c24fe4)
 ## Latest Release
-- [V0.0.2](https://github.com/MelloJello6446/SimpleClicker/releases/tag/V0.0.2)
+- [V0.0.3-BETA](https://github.com/MelloJello6446/SimpleClicker/releases/tag/V0.0.3-BETA)
   
 ## Releases
 - [V0.0.1](https://github.com/MelloJello6446/SimpleClicker/releases/tag/V0.0.1)
